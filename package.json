@@ -13,7 +13,6 @@
     "@emotion/styled": "^11.11.0",
     "@mui/material": "^5.14.14",
     "axios": "^1.5.1",
-    "citation-js": "^0.7.1",
     "fs": "^0.0.1-security",
     "material-ui-core": "^5.0.1",
     "react": "latest",
