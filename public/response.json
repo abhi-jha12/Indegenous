@@ -1,0 +1,143 @@
+{
+    "total": 12987970,
+    "offset": 10,
+    "next": 20,
+    "data": [
+        {
+            "paperId": "774e8d544542686c58c1be0ab913a070246d815a",
+            "url": "https://www.semanticscholar.org/paper/774e8d544542686c58c1be0ab913a070246d815a",
+            "title": "Climate change 2001 : the scientific basis",
+            "abstract": "Summary for policymakers Technical summary 1. The climate system - an overview 2. Observed climate variability and change 3. The carbon cycle and atmospheric CO2 4. Atmospheric chemistry and greenhouse gases 5. Aerosols, their direct and indirect effects 6. Radiative forcing of climate change 7. Physical climate processes and feedbacks 8. Model evaluation 9. Projections of future climate change 10. Regional climate simulation - evaluation and projections 11. Changes in sea level 12. Detection of climate change and attribution of causes 13. Climate scenario development 14. Advancing our understanding Glossary Index Appendix.",
+            "citationCount": 13812,
+            "isOpenAccess": false,
+            "openAccessPdf": null,
+            "citationStyles": {
+                "bibtex": "@Article{Houghton2001ClimateC2,\n author = {J. Houghton and Y. Ding and D. Griggs and M. Noguer and P. Linden and X. Dai and K. Maskell and C. Johnson},\n journal = {Foreign Affairs},\n pages = {208},\n title = {Climate change 2001 : the scientific basis},\n volume = {81},\n year = {2001}\n}\n"
+            },
+            "authors": [
+                {
+                    "authorId": "82502978",
+                    "name": "J. Houghton"
+                },
+                {
+                    "authorId": "2107678351",
+                    "name": "Y. Ding"
+                },
+                {
+                    "authorId": "3666782",
+                    "name": "D. Griggs"
+                },
+                {
+                    "authorId": "49419886",
+                    "name": "M. Noguer"
+                },
+                {
+                    "authorId": "49029935",
+                    "name": "P. Linden"
+                },
+                {
+                    "authorId": "92693535",
+                    "name": "X. Dai"
+                },
+                {
+                    "authorId": "145308568",
+                    "name": "K. Maskell"
+                },
+                {
+                    "authorId": "2107487265",
+                    "name": "C. Johnson"
+                }
+            ]
+        },
+        {
+            "paperId": "affb6e0b544fa49871d25c5be79d6b57039a9087",
+            "url": "https://www.semanticscholar.org/paper/affb6e0b544fa49871d25c5be79d6b57039a9087",
+            "title": "The next generation of scenarios for climate change research and assessment",
+            "abstract": null,
+            "citationCount": 5721,
+            "isOpenAccess": false,
+            "openAccessPdf": null,
+            "citationStyles": {
+                "bibtex": "@Article{Moss2010TheNG,\n author = {R. Moss and J. Edmonds and K. Hibbard and M. Manning and S. Rose and D. Vuuren and T. Carter and S. Emori and M. Kainuma and T. Kram and G. Meehl and J. Mitchell and N. Nakicenovic and K. Riahi and Steven J. Smith and R. Stouffer and A. Thomson and J. Weyant and T. Wilbanks},\n booktitle = {Nature},\n journal = {Nature},\n pages = {747-756},\n title = {The next generation of scenarios for climate change research and assessment},\n volume = {463},\n year = {2010}\n}\n"
+            },
+            "authors": [
+                {
+                    "authorId": "70112088",
+                    "name": "R. Moss"
+                },
+                {
+                    "authorId": "39914182",
+                    "name": "J. Edmonds"
+                },
+                {
+                    "authorId": "3631772",
+                    "name": "K. Hibbard"
+                },
+                {
+                    "authorId": "48990549",
+                    "name": "M. Manning"
+                },
+                {
+                    "authorId": "49856115",
+                    "name": "S. Rose"
+                },
+                {
+                    "authorId": "34589425",
+                    "name": "D. Vuuren"
+                },
+                {
+                    "authorId": "49045938",
+                    "name": "T. Carter"
+                },
+                {
+                    "authorId": "4913350",
+                    "name": "S. Emori"
+                },
+                {
+                    "authorId": "12142609",
+                    "name": "M. Kainuma"
+                },
+                {
+                    "authorId": "5804719",
+                    "name": "T. Kram"
+                },
+                {
+                    "authorId": "3221562",
+                    "name": "G. Meehl"
+                },
+                {
+                    "authorId": "144964145",
+                    "name": "J. Mitchell"
+                },
+                {
+                    "authorId": "2338789",
+                    "name": "N. Nakicenovic"
+                },
+                {
+                    "authorId": "3491432",
+                    "name": "K. Riahi"
+                },
+                {
+                    "authorId": "2111046368",
+                    "name": "Steven J. Smith"
+                },
+                {
+                    "authorId": "3711975",
+                    "name": "R. Stouffer"
+                },
+                {
+                    "authorId": "145070716",
+                    "name": "A. Thomson"
+                },
+                {
+                    "authorId": "49930834",
+                    "name": "J. Weyant"
+                },
+                {
+                    "authorId": "4753328",
+                    "name": "T. Wilbanks"
+                }
+            ]
+        }
+    ]
+}
